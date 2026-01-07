@@ -110,8 +110,8 @@ h1.title {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  flex-wrap: wrap; 
-  height: 0; 
+  flex-wrap: wrap;  
+  height: 0;  
 }
 
 .content__video-card-thumbnail {

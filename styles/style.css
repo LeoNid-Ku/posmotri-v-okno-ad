@@ -110,8 +110,6 @@ h1.title {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  flex-wrap: wrap;  
-  height: 0;  
 }
 
 .content__video-card-thumbnail {
@@ -269,12 +267,11 @@ h1.title {
   background-color: #1B1919;
   color: #FFFFFF;
   text-align: center;
-  cursor: pointerэ
+  cursor: pointer;
 }
 
 .button:hover {
   text-decoration: underline;
-  pointer-events: none;
 }
 
 .button:active {
